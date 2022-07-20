@@ -1,0 +1,7 @@
+__pycache__/*
+__pycache__
+__dist__
+__build__
+__env__
+errorlog.txt
+debug.log
